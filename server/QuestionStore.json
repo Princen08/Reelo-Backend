@@ -1,0 +1,359 @@
+[
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the difference between mass and weight?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the relationship between energy and matter?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is the wavelength of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the name of the force that holds the nucleus of an atom together?",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the theory of quantum mechanics?",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is the theory of relativity?",
+    "subject": "Physics",
+    "topic": "Relativity",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is the difference between visible light and ultraviolet light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "Write about newton's second law.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "subject": "Chemistry",
+    "topic": "Basic Chemistry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the name of the process that plants use to make food from sunlight?",
+    "subject": "Biology",
+    "topic": "Photosynthesis",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the difference between DNA and RNA?",
+    "subject": "Biology",
+    "topic": "Molecular Biology",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the process by which cells break down food to release energy?",
+    "subject": "Biology",
+    "topic": "Cellular Respiration",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the genetic code?",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is the human microbiome?",
+    "subject": "Biology",
+    "topic": "Microbiology",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is the sum of 1 and 1?",
+    "subject": "Math",
+    "topic": "Addition",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the product of 5 and 3?",
+    "subject": "Math",
+    "topic": "Multiplication",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the quotient of 10 and 1?",
+    "subject": "Math",
+    "topic": "Division",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the difference between 100 and 50?",
+    "subject": "Math",
+    "topic": "Subtraction",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the square root of 16?",
+    "subject": "Math",
+    "topic": "Square Root",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the slope of the line y = 1x + 1?",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the solution to the equation 1x^1 + 3x - 1 = 0?",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the derivative of the function f(x) = x^3?",
+    "subject": "Math",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the integral of the function f(x) = 1x + 1?",
+    "subject": "Math",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is a probability distribution?",
+    "subject": "Math",
+    "topic": "Statistics",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is a vector space?",
+    "subject": "Math",
+    "topic": "Linear Algebra",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is a group?",
+    "subject": "Math",
+    "topic": "Abstract Algebra",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is a differential equation?",
+    "subject": "Math",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is a topology?",
+    "subject": "Math",
+    "topic": "Topology",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "What is a complex number?",
+    "subject": "Math",
+    "topic": "Complex Analysis",
+    "difficulty": "Hard",
+    "marks": 5
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "subject": "History",
+    "topic": "American History",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "When did World War II end?",
+    "subject": "History",
+    "topic": "World History",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What was the name of the ancient city that was destroyed by the eruption of Mount Vesuvius?",
+    "subject": "History",
+    "topic": "Ancient Civilizations",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "subject": "History",
+    "topic": "Space Exploration",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What was the name of the country that was known as the 'Land of the Rising Sun'? ",
+    "subject": "History",
+    "topic": "Asian History",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What were the causes of the American Civil War?",
+    "subject": "History",
+    "topic": "American History",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What were the effects of the French Revolution?",
+    "subject": "History",
+    "topic": "European History",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between the Greek and Roman empires?",
+    "subject": "History",
+    "topic": "Ancient Civilizations",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between humanism and classicism?",
+    "subject": "History",
+    "topic": "Renaissance",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between empiricism and rationalism?",
+    "subject": "History",
+    "topic": "Enlightenment",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between capitalism and socialism?",
+    "subject": "History",
+    "topic": "Industrial Revolution",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between the Cold War and the War on Terror?",
+    "subject": "History",
+    "topic": "Modern World History",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "Who wrote the novel Pride and Prejudice?",
+    "subject": "Literature",
+    "topic": "Novel",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the difference between a metaphor and a simile?",
+    "subject": "Literature",
+    "topic": "Poetry",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the difference between a tragedy and a comedy?",
+    "subject": "Literature",
+    "topic": "Drama",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the difference between science fiction and fantasy?",
+    "subject": "Literature",
+    "topic": "Science Fiction",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the character arc of the protagonist in the novel Jane Eyre?",
+    "subject": "Literature",
+    "topic": "Bildungsroman",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the theme of the novel 1984?",
+    "subject": "Literature",
+    "topic": "Dystopian Literature",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between a novel and a novella?",
+    "subject": "Literature",
+    "topic": "Prose Fiction",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between a short story and a poem?",
+    "subject": "Literature",
+    "topic": "Creative Writing",
+    "difficulty": "Medium",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between modernism and postmodernism?",
+    "subject": "Literature",
+    "topic": "Literary Theory",
+    "difficulty": "Medium",
+    "marks": 3
+  }
+]

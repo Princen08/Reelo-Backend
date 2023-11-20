@@ -1,0 +1,15 @@
+{
+  "name": "reelo",
+  "version": "1.0.0",
+  "description": "This is question-paper generater app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince Patel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
