@@ -22,7 +22,7 @@ function App() {
 
   async function generatePaper() {
     try {
-      const res = await axios.get('http://localhost:4000',
+      const res = await axios.get('https://reelo-backend.vercel.app/',
         {
           params: {
             totalMarks: totalMarks,
