@@ -1,6 +1,7 @@
 import "./App.css";
 import { useState } from 'react'
 import axios from "axios";
+import toast, { Toaster } from 'react-hot-toast';
 
 function App() {
   const [totalMarks, setTotalMarks] = useState();
@@ -10,13 +11,20 @@ function App() {
   const [questionList, setQuestionList] = useState([]);
   const handleSubmit = (event) => {
     event.preventDefault();
-    if(!totalMarks || !easyPer || !mediumPer || !hardPer) {
-      alert("All fields are mandatory.")
+    if (!totalMarks || !easyPer || !mediumPer || !hardPer) {
+      toast.error("All fields are mandatory.")
       return;
-    } 
-    if(totalMarks % 5) {
-      alert("Total marks must be multiple of 5.")
     }
+    if (totalMarks % 5) {
+      toast.error("Total marks must be multiple of 5.")
+      return;
+    }
+    let sum = parseInt(easyPer) + parseInt(mediumPer) + parseInt(hardPer);
+    if (sum !== 100) {
+      toast.error("Sum of difficulty must be 100.");
+      return;
+    }
+    toast.success("Paper generated succesfully.")
     generatePaper();
   };
 
@@ -38,7 +46,12 @@ function App() {
     }
   }
   return (
+
     <div>
+      <Toaster
+        position="top-center"
+        reverseOrder={false}
+      />
       <h1 className=" text-3xl font-bold px-5 py-5 text-blue-400">
         Question Paper Generator
       </h1>
